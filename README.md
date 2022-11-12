@@ -45,13 +45,15 @@ Car "age" determined by the model year -> focus on new vs used
 
 > ### **`Start Stop Technology - Fuel Cost`**
 > <img src ="images/dynamic/ttest-1.png">
->
+
 > ### **`Car Class - Combined MPG`**
 > <img src ="images/dynamic/ttest-2.png">
->
+
 > ### **`Car Age - Used Fuel Quantity`**
 > <img src ="images/dynamic/ttest-3.png">
 
+> ### **`5 Year Savings and Spending`**
+> <img src ="images/dynamic/five-year-makes.png">
 ### `💡- Recommendations`
 ```
 - For fuel economy and savings, without sacrificing the convenience of regular gas, use cars with Start / Stop Technology
