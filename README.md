@@ -37,8 +37,9 @@ Subcompact and compact vehicles are the most common classes -> focus on these ca
   - These two classes are the most popular and they are quite similar in specific metrics
 
 Car "age" determined by the model year -> focus on new vs used
-
 ```
+<img src ="images/dynamic/car-age.png">
+
 
 ### `🔍- Findings`
 ```
