@@ -23,8 +23,21 @@ Click the icons or text below to see my project files and deliverables
 
 
 ### `🔧- Methods`
+
+| Research Questions                                                                                  |
+|-----------------------------------------------------------------------------------------------------|
+| Does the Start / Stop Technology make a significant difference in fuel costs / consumption?         |
+| Does the car’s “age” or model year have a significant difference in fuel economy?                   |
+| How significant is the car’s class (car type: minivan, truck, compact…) in the consumption of fuel? |
 ```
-p
+Most vehicles use regular gas as a fuel type -> focus on regular gas vehicles
+  - Regular gas is convenient, and already has nationwide infrastructure
+
+Subcompact and compact vehicles are the most common classes -> focus on these car classes
+  - These two classes are the most popular and they are quite similar in specific metrics
+
+Car "age" determined by the model year -> focus on new vs used
+
 ```
 
 ### `🔍- Findings`
