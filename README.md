@@ -20,3 +20,19 @@ Click the icons or text below to see my project files and deliverables
 | [PowerPoint](https://1drv.ms/p/s!Ahpkb3AfX4xfhLwzWGT1K1IHn_Fk2A?e=RTB4IZ) | [Excel](https://1drv.ms/x/s!Ahpkb3AfX4xfhLxAdTGnqepw6EwTXA?e=QpBkSM) |
 |:---:|:---:|
 | [<img src="images/static/filetype-pptx.svg" width="54px">](https://1drv.ms/p/s!Ahpkb3AfX4xfhLwzWGT1K1IHn_Fk2A?e=RTB4IZ) | [<img src="images/static/filetype-xlsx.svg" width="54px">](https://1drv.ms/x/s!Ahpkb3AfX4xfhLxAdTGnqepw6EwTXA?e=QpBkSM) |
+
+
+### `🔧- Methods`
+```
+p
+```
+
+### `🔍- Findings`
+```
+p
+```
+
+### `💡- Recommendations`
+```
+p
+```
