@@ -1,4 +1,7 @@
 ### Business Research Project - *Fuel Economy*
+
+<img src ="images/dynamic/dawn-mcdonald-lBP2muAsD94-unsplash.jpg" width = 400>
+
 ## Project Summary 🗒️
 ### `🧭- Project scenario`
 ```
