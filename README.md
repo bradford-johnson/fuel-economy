@@ -42,9 +42,19 @@ Car "age" determined by the model year -> focus on new vs used
 
 
 ### `🔍- Findings`
+
+> ### **`Start Stop Technology`**
+> <img src ="images/dynamic/ttest-1.png">
+
 ```
 p
 ```
+<img src ="images/dynamic/ttest-2.png">
+
+```
+p
+```
+<img src ="images/dynamic/ttest-3.png">
 
 ### `💡- Recommendations`
 ```
