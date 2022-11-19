@@ -1,5 +1,7 @@
 <!--- YAML HEADER
 title: "Fuel Economy"
+date: "11/02/2022"
+image: "images/dynamic/dawn-mcdonald-lBP2muAsD94-unsplash.jpg"
 format: html
 editor: visual
 --->
@@ -8,6 +10,7 @@ editor: visual
 
 <img src="images/dynamic/dawn-mcdonald-lBP2muAsD94-unsplash.jpg" width="350"/>
 
+<!---::: column-page-inset--->
 ## Project Summary 🗒️
 
 ### 🧭- Project scenario
@@ -67,3 +70,4 @@ editor: visual
 -   For fuel economy and savings, without sacrificing the convenience of regular gas, use cars with Start / Stop Technology
 -   Prioritize using newer cars (2015 and newer) as on average they have a significantly better combined MPG than older counterparts
 -   Implementing the above and using the compact vehicle class will offer the best savings in terms of fuel economy
+<!---:::--->
