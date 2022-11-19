@@ -6,7 +6,7 @@ format: html
 editor: visual
 --->
 
-### Business Research Project - *Fuel Economy*
+*Statistical Significance \| Fuel Economy*
 
 <img src="images/dynamic/dawn-mcdonald-lBP2muAsD94-unsplash.jpg" width="350"/>
 
